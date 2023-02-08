@@ -42,6 +42,27 @@ The ecosystem provides 4 dashboards in which the business analyst can analyze:
 
 The created ecosystem design can be expanded to create a real-time processing layer, which would be responsible for analyzing data coming directly from sensors. The architecture of the ecosystem was created with the concept that in the future it can be expanded to include the previously mentioned layer.
 The stated goal of the thesis was fully achieved. An architecture of a Business Intelligence ecosystem using Big Data has been created, which can be used as a point of presentation of architecture concepts for architects and designers responsible for their construction.
+
+## Business Intelligence Ecosystem architecture based on Big Data environments 
+![Ecosystem](https://user-images.githubusercontent.com/89588699/217612107-c843dc58-82e3-4950-9f46-f39282951e2e.png)
+## Raw Data in Apache Spark
+![image](https://user-images.githubusercontent.com/89588699/217612613-dbaa1f21-a182-41f9-a05b-d1f358384b7e.png)
+## Relationships between processed Adventure works databases in Power Bi
+![image](https://user-images.githubusercontent.com/89588699/217612693-451e8bb9-7d39-45cf-b000-0b5f89f3d11e.png)
+## Interactive application with 4 dashboards for business analysts
+### Visualize general company data for Advenuture Works
+![image](https://user-images.githubusercontent.com/89588699/217614664-4f7995fd-2483-4abb-8f19-0749a430c7a5.png)
+
+### Data visualization concern company products for Advenuture Works
+![image](https://user-images.githubusercontent.com/89588699/217614703-296fade4-779d-4e85-8cc6-31faf042e4d3.png)
+
+### Data visualization concern Advenuture Works customers
+![image](https://user-images.githubusercontent.com/89588699/217614756-e286eb61-5277-4fdc-bb1c-8fabb5296c63.png)
+
+### Region-specific data visualization and sales prediction for Adventure Works 
+![image](https://user-images.githubusercontent.com/89588699/217614791-21cb3c3a-9fea-4465-ac70-8e95f2bca552.png)
+
+
 ## LICENSE
 
 GNU General Public License, version 3 (GPLv3)
